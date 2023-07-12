@@ -79,7 +79,11 @@ asr.onresult = function (event) {
 
     if (artist === "") { // アーティスト名・音楽のジャンルを取得
       artist = transcript;
-      answer = transcript + "ですね！" + "今はどんな気分ですか？";
+			if (artist === "") {
+				answer = "申し訳ございません、もう一度リクエストしてください";
+			} else {
+				answer = transcript + "ですね！" + "今はどんな気分ですか？";
+			}
       tts.text = answer;
       output += transcript + ' => ' + answer + '<br>';
       // 再生が終了（end）したときのイベントハンドラ（終了したときに実行される）
