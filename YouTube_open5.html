@@ -94,9 +94,14 @@ asr.onresult = function (event) {
           kibun = emo[key];
         }
       });
-      answer = "そうなんですね、こちらでおすすめ動画を用意しましたが視聴しますか？";
+			if (kibun === "") {
+				answer = "申し訳ございません、もう一度今の気分を教えてください";
+				output += transcript + ' => ' + answer + '<br>' + "<例>嬉しい、悲しい、失恋した、普通etc..." + '<br>';
+			} else {
+				answer = "そうなんですね、こちらでおすすめ動画を用意しましたが視聴しますか？";
+				output += transcript + ' => ' + answer + '<br>';
+			}
       tts.text = answer;
-      output += transcript + ' => ' + answer + '<br>';
       // 再生が終了（end）したときのイベントハンドラ（終了したときに実行される）
       tts.onend = function (event) {
         asr.start(); // 音声認識を再開
