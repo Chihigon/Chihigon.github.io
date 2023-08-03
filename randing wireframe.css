@@ -1,11 +1,11 @@
 .mediaViewInfo {
-	--web-view-name: randing page;
-	--web-view-id: randing_page;
+	--web-view-name: randing page – 1;
+	--web-view-id: randing_page__1;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: randing_page;
+	--web-view-ids: randing_page__1;
 }
 * {
 	margin: 0;
@@ -13,14 +13,14 @@
 	box-sizing: border-box;
 	border: none;
 }
-#randing_page {
+#randing_page__1 {
 	position: absolute;
 	width: 390px;
-	height: 1723px;
+	height: 1682px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: randing page;
-	--web-view-id: randing_page;
+	--web-view-name: randing page – 1;
+	--web-view-id: randing_page__1;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -29,7 +29,7 @@
 	width: 44px;
 	height: 44px;
 	left: 8px;
-	top: 48px;
+	top: 8px;
 	overflow: visible;
 }
 #n_3 {
@@ -51,7 +51,7 @@
 	top: 14px;
 	overflow: visible;
 }
-#n_1_j {
+#n_1_k {
 	fill: transparent;
 	stroke: rgba(112,112,112,1);
 	stroke-width: 3px;
@@ -60,7 +60,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_1_j {
+.n_1_k {
 	overflow: visible;
 	position: absolute;
 	width: 23px;
@@ -87,7 +87,7 @@
 	top: 8px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#n_3_l {
+#n_3_m {
 	fill: transparent;
 	stroke: rgba(112,112,112,1);
 	stroke-width: 3px;
@@ -96,7 +96,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_3_l {
+.n_3_m {
 	overflow: visible;
 	position: absolute;
 	width: 23px;
@@ -110,7 +110,7 @@
 	width: 44px;
 	height: 44px;
 	left: 338px;
-	top: 48px;
+	top: 8px;
 	overflow: visible;
 }
 #n_4 {
@@ -124,7 +124,7 @@
 	left: 0px;
 	top: 0px;
 }
-#n_2_o {
+#n_2_p {
 	position: absolute;
 	width: 21.591px;
 	height: 23.51px;
@@ -132,7 +132,7 @@
 	top: 10.245px;
 	overflow: visible;
 }
-#n_1_p {
+#n_1_q {
 	fill: transparent;
 	stroke: rgba(112,112,112,1);
 	stroke-width: 2px;
@@ -141,7 +141,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_1_p {
+.n_1_q {
 	position: absolute;
 	overflow: visible;
 	width: 18.233px;
@@ -149,8 +149,8 @@
 	left: 0px;
 	top: 0px;
 }
-#n_4_q {
-	fill: transparent;
+#n_1_r {
+	fill: rgba(0,0,0,0);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 2px;
 	stroke-linejoin: miter;
@@ -158,10 +158,10 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.n_4_q {
+.n_1_r {
 	overflow: visible;
 	position: absolute;
-	width: 9.539px;
+	width: 9.54px;
 	height: 10.499px;
 	left: 14.874px;
 	top: 15.834px;
@@ -172,7 +172,7 @@
 	width: 145px;
 	height: 30px;
 	left: 123px;
-	top: 55px;
+	top: 17px;
 	overflow: visible;
 }
 #MODERNIST {
@@ -206,7 +206,7 @@
 	width: 390px;
 	height: 326px;
 	left: 0px;
-	top: 112px;
+	top: 72px;
 	overflow: visible;
 }
 #n_6 {
@@ -251,10 +251,10 @@
 	width: 144px;
 	height: 220px;
 	left: 123px;
-	top: 463px;
+	top: 423px;
 	overflow: visible;
 }
-#Text_z {
+#Text_ {
 	left: 29px;
 	top: 0px;
 	position: absolute;
@@ -372,10 +372,10 @@
 	width: 150px;
 	height: 46px;
 	left: 34px;
-	top: 713px;
+	top: 673px;
 	overflow: visible;
 }
-#Text_ {
+#Text_ba {
 	left: 0px;
 	top: 0px;
 	position: absolute;
@@ -390,7 +390,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 1px;
 }
-#Text_ba {
+#Text_bb {
 	left: 54px;
 	top: 35px;
 	position: absolute;
@@ -410,7 +410,7 @@
 	width: 155px;
 	height: 29px;
 	left: 204px;
-	top: 723px;
+	top: 683px;
 	overflow: visible;
 }
 #n_9 {
@@ -430,7 +430,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Text_bc {
+#Text_bd {
 	left: 32px;
 	top: 6px;
 	position: absolute;
@@ -450,10 +450,10 @@
 	width: 361px;
 	height: 554px;
 	left: 15px;
-	top: 809px;
+	top: 769px;
 	overflow: visible;
 }
-#Text_be {
+#Text_bf {
 	left: 137px;
 	top: 0px;
 	position: absolute;
@@ -468,7 +468,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 2.5px;
 }
-#n_7_bf {
+#n_7_bg {
 	position: absolute;
 	width: 148px;
 	height: 148px;
@@ -487,7 +487,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Text_bh {
+#Text_bi {
 	left: 56px;
 	top: 65px;
 	position: absolute;
@@ -503,7 +503,7 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#n_8_bi {
+#n_8_bj {
 	position: absolute;
 	width: 316px;
 	height: 115px;
@@ -528,7 +528,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Text_bk {
+#Text_bl {
 	left: 122px;
 	top: 49px;
 	position: absolute;
@@ -544,7 +544,7 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#n_9_bl {
+#n_9_bm {
 	position: absolute;
 	width: 361px;
 	height: 190px;
@@ -552,7 +552,7 @@
 	top: 46px;
 	overflow: visible;
 }
-#n_4_bm {
+#n_4_bn {
 	position: absolute;
 	width: 107px;
 	height: 190px;
@@ -571,7 +571,7 @@
 	left: 1px;
 	top: 0px;
 }
-#Text_bo {
+#Text_bp {
 	left: 0px;
 	top: 119px;
 	position: absolute;
@@ -587,7 +587,7 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#n_5_bp {
+#n_5_bq {
 	position: absolute;
 	width: 107px;
 	height: 190px;
@@ -595,10 +595,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#n_10_bq {
+#n_10_br {
 	fill: rgba(188,188,188,1);
 }
-.n_10_bq {
+.n_10_br {
 	position: absolute;
 	overflow: visible;
 	width: 106px;
@@ -606,7 +606,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Text_br {
+#Text_bs {
 	left: 0px;
 	top: 119px;
 	position: absolute;
@@ -622,7 +622,7 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#n_6_bs {
+#n_6_bt {
 	position: absolute;
 	width: 107px;
 	height: 190px;
@@ -630,10 +630,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#n_10_bt {
+#n_10_bu {
 	fill: rgba(188,188,188,1);
 }
-.n_10_bt {
+.n_10_bu {
 	position: absolute;
 	overflow: visible;
 	width: 106px;
@@ -641,7 +641,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Text_bu {
+#Text_bv {
 	left: 0px;
 	top: 119px;
 	position: absolute;
@@ -657,7 +657,7 @@
 	font-size: 12px;
 	color: rgba(0,0,0,1);
 }
-#Text_bv {
+#Text_bw {
 	left: 5px;
 	top: 23px;
 	position: absolute;
@@ -672,7 +672,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 2.5px;
 }
-#Text_bw {
+#Text_bx {
 	left: 132px;
 	top: 23px;
 	position: absolute;
@@ -687,7 +687,7 @@
 	color: rgba(0,0,0,1);
 	letter-spacing: 2.5px;
 }
-#Text_bx {
+#Text_by {
 	left: 258px;
 	top: 23px;
 	position: absolute;
@@ -704,58 +704,102 @@
 }
 #ather_goods {
 	position: absolute;
-	width: 433px;
+	width: 561px;
 	height: 140px;
-	left: 36px;
-	top: 1413px;
+	left: -191px;
+	top: 1373px;
 	overflow: visible;
 }
-#n_10_bz {
-	fill: rgba(188,188,188,1);
-}
-.n_10_bz {
+#n_1_b {
 	position: absolute;
-	overflow: visible;
-	width: 94px;
+	width: 561px;
 	height: 94px;
 	left: 0px;
 	top: 46px;
+	overflow: hidden;
 }
-#n_10_b {
-	fill: rgba(188,188,188,1);
-}
-.n_10_b {
+#Group {
 	position: absolute;
-	overflow: visible;
 	width: 94px;
 	height: 94px;
-	left: 112px;
-	top: 46px;
-}
-#n_10_ca {
-	fill: rgba(188,188,188,1);
-}
-.n_10_ca {
-	position: absolute;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
+}
+#n_70998462 {
+	position: absolute;
 	width: 94px;
 	height: 94px;
-	left: 225px;
-	top: 46px;
-}
-#n_10_cb {
-	fill: rgba(188,188,188,1);
-}
-.n_10_cb {
-	position: absolute;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
+}
+#Group_b {
+	position: absolute;
 	width: 94px;
 	height: 94px;
-	left: 339px;
-	top: 46px;
+	left: 114px;
+	top: 0px;
+	overflow: visible;
 }
-#Text_b {
-	left: 116px;
+#n_70998462_b {
+	position: absolute;
+	width: 94px;
+	height: 94px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_ca {
+	position: absolute;
+	width: 94px;
+	height: 94px;
+	left: 228px;
+	top: 0px;
+	overflow: visible;
+}
+#n_70998462_ca {
+	position: absolute;
+	width: 94px;
+	height: 94px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_cb {
+	position: absolute;
+	width: 94px;
+	height: 94px;
+	left: 342px;
+	top: 0px;
+	overflow: visible;
+}
+#n_70998462_cb {
+	position: absolute;
+	width: 94px;
+	height: 94px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_cc {
+	position: absolute;
+	width: 94px;
+	height: 94px;
+	left: 456px;
+	top: 0px;
+	overflow: visible;
+}
+#n_70998462_cc {
+	position: absolute;
+	width: 94px;
+	height: 94px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Text_cb {
+	left: 343px;
 	top: 0px;
 	position: absolute;
 	overflow: visible;
@@ -774,7 +818,7 @@
 	width: 390px;
 	height: 119px;
 	left: 0px;
-	top: 1604px;
+	top: 1564px;
 	overflow: visible;
 }
 #n_13 {
@@ -788,7 +832,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Text_ca {
+#Text_ce {
 	left: 152px;
 	top: 10px;
 	position: absolute;
